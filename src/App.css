@@ -3,6 +3,10 @@
 @tailwind utilities;
 
 .input-box {
-  width: 150px; 
-  padding: 8px; 
+  width: 150px;
+  padding: 8px;
+}
+.outline {
+  background-color: blue;
+  padding-top: 100px;
 }
