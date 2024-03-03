@@ -1,4 +1,10 @@
 # Getting Started with Create React App
+# Sample Snap!
+![image](https://github.com/MANIKANDAN-IT21/fahrenheit-to-celsius/assets/95203058/df4f5072-6bd8-4dc1-b801-5312bd3098a8)
+![image](https://github.com/MANIKANDAN-IT21/fahrenheit-to-celsius/assets/95203058/20c03dc2-505b-42c0-9fdd-82eb0ce120c9)
+![image](https://github.com/MANIKANDAN-IT21/fahrenheit-to-celsius/assets/95203058/9320bd69-59a9-4b28-8e4a-5346435c6cb3)
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
