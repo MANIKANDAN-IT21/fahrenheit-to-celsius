@@ -7,6 +7,19 @@
   padding: 8px;
 }
 .outline {
-  background-color: blue;
+  background-color: rgb(77, 166, 238);
   padding-top: 100px;
+}
+.btn {
+  padding: 10px 10px;
+  margin-top: 10px;
+  font-size: 16px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+.back {
+  background-color: #4caf50;
 }

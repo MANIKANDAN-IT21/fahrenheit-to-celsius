@@ -1,8 +1,8 @@
 const Head = () => {
   return (
-    <head>
-      <h2>Fahrenheitttttttttttttt conversion</h2>
-    </head>
+    <div className="flex justify-center font-txt py-3 back">
+      <h2>Fahrenheit Conversion & Celsius Conversion</h2>
+    </div>
   );
 };
 export default Head;

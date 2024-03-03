@@ -1,5 +1,5 @@
 import "./App.css";
-//  import feh from "./assets/fah.png";
+import feh from "./assets/fah.png";
 import React, { useState } from "react";
 
 function App() {
@@ -12,10 +12,12 @@ function App() {
   };
 
   return (
-    <div className="py-10 flex  justify-center outline">
+    <div className="py-10 flex-col flex md:flex-row justify-around outline font-txt">
       <div className="flex flex-col ">
-        <h1>React Weather App</h1>
-        <h1>Fahrenheit conversion</h1>
+        <h1>
+          <span className="text-white text-3xl">F</span>ahrenheit{" "}
+          <span className="text-white text-3xl">C</span>onversion
+        </h1>
         <h1 className="py-2">Celsius</h1>
         <input
           className="input-box py-2"
@@ -33,11 +35,12 @@ function App() {
           readOnly
         />
 
-        <button onClick={convertToFahrenheit} className="py-10">
+        <button onClick={convertToFahrenheit} className="btn py-10">
           Convert to Fahrenheit
         </button>
       </div>
-      {/* <img src={feh} sizes="500px"></img> */}
+
+      <img src={feh} style={{ width: "300px" }} alt="mani" />
     </div>
   );
 }
