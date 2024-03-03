@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Cel2Feh",
+  "name": "Temperature Conversion",
   "icons": [
     {
       "src": "favicon.ico",
@@ -8,12 +8,28 @@
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
+      "src": "logo192.jpg",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
+      "src": "maskable.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "logo256.jpg",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "logo384.jpg",
+      "type": "image/png",
+      "sizes": "384x384"
+    },
+    {
+      "src": "logo512.jpg",
       "type": "image/png",
       "sizes": "512x512"
     }
